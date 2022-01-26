@@ -29,7 +29,7 @@ button{
 .calculator{
     display: inline-block;
     border: 2px solid ;
-    border-radius: 5px;
-    padding: 50px;
+    border-radius: 20px;
+    padding: 10px;
     background-color: rgb(243, 77, 221);
 }
